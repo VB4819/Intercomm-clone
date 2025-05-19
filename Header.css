@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 24px;
+    background: #fff;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  
+  .header-actions {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-actions input {
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid #e5e7eb;
+    margin-right: 16px;
+    outline: none;
+  }
+  
+  .user-avatar {
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+  }
+  
