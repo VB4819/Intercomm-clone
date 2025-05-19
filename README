@@ -1,0 +1,78 @@
+Intercom Admin Panel Clone
+This project is a responsive, React-based clone of the Intercom admin panel, created as part of an assignment to replicate the UI and core functionalities showcased in the provided demo video.
+
+🚀 Live Demo
+http://192.168.186.148:3000/
+
+📂 Features
+Modern UI: Sidebar navigation, header, chat list, and chat window
+
+Responsive Design: Works on desktop and mobile devices
+
+Transitions & Animations: Smooth hover and selection effects
+
+Dummy Data: All data is mocked for demonstration
+
+Component-based Structure: Clean, modular React code
+
+React
+
+CSS (with custom component styles)
+
+Vercel for deployment
+
+📱 Mobile Responsiveness
+The UI is fully responsive and adapts to various screen sizes, ensuring a seamless experience on both desktop and mobile.
+
+🛠️ Getting Started
+Clone the repo:
+
+bash
+git clone https://github.com/VB4819/intercom-clone.git
+cd intercom-clone
+Install dependencies:
+
+bash
+npm install
+Run the app locally:
+
+bash
+npm start
+The app will open at http://localhost:3000.
+
+📝 Assignment Notes
+Focus: UI/UX, responsiveness, and code quality
+
+Functionality: Replicates the main layout and chat flow as seen in the demo video
+
+Limitations: Uses only dummy data, no backend/API integration
+
+Libraries Used: Only React and CSS
+
+📁 Folder Structure
+text
+src/
+  components/
+    Sidebar.js
+    Sidebar.css
+    Header.js
+    Header.css
+    ChatList.js
+    ChatList.css
+    ChatWindow.js
+    ChatWindow.css
+  App.js
+  App.css
+  index.js
+  index.css
+✨ WOW Factor
+Clean, modern UI inspired by Intercom
+
+Smooth transitions and interactive highlights
+
+Fully mobile-responsive
+
+👤 Author
+Vikrant Bagra
+
+Thank you for reviewing my submission!
